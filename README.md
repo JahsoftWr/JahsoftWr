@@ -32,6 +32,27 @@
 
 </p>
 
+
+
+<h2 align="left">Languages & Technologies</h2>
+<p align="left">
+  <a href="https://docs.microsoft.com/en-us/aspnet/core/mvc/overview/getting-started/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aspnet/aspnet-original.svg" alt="mvc .net" width="40" height="40"/> </a>
+  <a href="https://docs.microsoft.com/en-us/dotnet/visual-basic/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualbasic/visualbasic-original.svg" alt="vb net" width="40" height="40"/> </a>
+  <a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+  <a href="https://www.vb6.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualbasic/visualbasic6-original.svg" alt="vb6" width="40" height="40"/> </a>
+  <a href="https://www.microsoft.com/en-us/sql/database-engine/editions/sql-server-2019" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original.svg" alt="sql server" width="40" height="40"/> </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a>
+</p>
+
+
+
+
+
+
+
+
+
 <hr>
 <!--
 **JahsoftWr/JahsoftWr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
