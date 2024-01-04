@@ -14,6 +14,7 @@
 
 
 
+
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" style="text-decoration:none" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" style="text-decoration:none" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
@@ -28,6 +29,10 @@
 <a href="https://www.microsoft.com/en-us/sql/database-engine/editions/sql-server-2019" style="text-decoration:none" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/YDApY0F.png" alt="sql server" width="40" height="40"/> </a>
 <a href="https://www.mysql.com/" style="text-decoration:none" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" style="text-decoration:none" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a>
+
+
+
+
 <a href="https://git-scm.com/" style="text-decoration:none" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/></a>
 <a href="https://docs.microsoft.com/en-us/dotnet/visual-basic/" style="text-decoration:none" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/tTUVgL2.png" alt="vb net" width="40" height="40"/></a>
 <a href="https://git-scm.com/" style="text-decoration:none" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/></a>
