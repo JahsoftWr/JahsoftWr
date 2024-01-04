@@ -34,7 +34,9 @@
 <p align="left">
 <h2 align="left">Interests and Following Languages ​​and Technologies</h2>
 </p>
-
+<p align="left">
+<a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/></a>
+</p>
 <hr>
 <!--
 **JahsoftWr/JahsoftWr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
