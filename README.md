@@ -38,8 +38,6 @@
 
 
 
-
-
 <p align="left">
 <h2 align="left">Interests and Following Languages ​​and Technologies</h2>
 </p>
