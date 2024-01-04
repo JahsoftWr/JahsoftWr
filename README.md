@@ -1,6 +1,8 @@
+<hr>
 ### Hi there! my name is Javier 👋 💬
-
+<hr>
 <img src="https://i.imgur.com/msH9rqF.png">
+<hr>
 <!--
 **JahsoftWr/JahsoftWr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
