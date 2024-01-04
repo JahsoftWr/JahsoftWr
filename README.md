@@ -19,6 +19,7 @@
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="laravel" width="40" height="40"/></a>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/></a>
 <a href="https://docs.microsoft.com/en-us/aspnet/core/mvc/overview/getting-started/" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/JQ8BYjU.png" alt="Mvc.net" width="40" height="40"/></a>
+<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
 <a href="https://docs.microsoft.com/en-us/dotnet/visual-basic/" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/tTUVgL2.png" alt="Vb net" width="40" height="40"/></a>
 <a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
 <a href="https://www.vb6.com/" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/cmOpJao.png" alt="vb6" width="40" height="40"/></a>
