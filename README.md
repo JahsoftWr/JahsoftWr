@@ -1,8 +1,8 @@
 <hr>
 
-<h1 align="center">
+<h2 align="center">
 ### Hi there! my name is <a href="https://github.com/JahsoftWr">Javier</a> 👋 💬
-</h1>
+</h2>
 <hr>
 <img src="https://i.imgur.com/msH9rqF.png">
 <hr>
