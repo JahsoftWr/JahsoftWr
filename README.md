@@ -19,7 +19,7 @@
   <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android studio" width="40" height="40"/> </a>
   <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="laravel" width="40" height="40"/> </a>
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="c#" width="40" height="40"/> </a>
-  <a href="https://docs.microsoft.com/en-us/aspnet/core/mvc/overview/getting-started/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aspnet/aspnet-original.svg" alt="mvc .net" width="40" height="40"/> </a>
+  <a href="https://docs.microsoft.com/en-us/aspnet/core/mvc/overview/getting-started/" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/JQ8BYjU.png" alt="mvc .net" width="40" height="40"/> </a>
   <a href="https://docs.microsoft.com/en-us/dotnet/visual-basic/" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/tTUVgL2.png" alt="vb net" width="40" height="40"/> </a>
   <a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
   <a href="https://www.vb6.com/" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/cmOpJao.png" alt="vb6" width="40" height="40"/> </a>
