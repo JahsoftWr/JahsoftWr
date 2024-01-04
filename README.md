@@ -4,12 +4,10 @@
 ### Hi there! my name is <a href="https://github.com/JahsoftWr">Javier</a> 👋 💬
 </h2>
 <hr>
-<img src="https://i.imgur.com/EZEXyJH.png">
+<img src="https://i.imgur.com/K3r2flT.png">
 <hr>
 
 <h2 align="left">Languages & Technologies</h2>
-
-
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/></a>
