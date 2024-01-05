@@ -4,7 +4,7 @@
 ### Hi there! my name is <a href="https://github.com/JahsoftWr">Javier</a> 👋 💬
 </h2>
 <hr>
-<img src="https://i.imgur.com/K3r2flT.png">
+<img src="https://i.imgur.com/OujrZjl.png">
 <hr>
 
 <h2 align="left">Languages & Technologies</h2>
