@@ -44,6 +44,24 @@
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/XI6pwLD.png" alt="Arduino" width="40" height="40"/></a>
 </p>
 <hr>
+
+<h2 align="center">Stats 📊 </h2>
+
+<hr>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JahsoftWr&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="JahsoftWr :: Profile Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JahsoftWr&langs_count=8&theme=tokyonight&layout=compact&hide_border=true" alt="JahsoftWr :: Top Langs" />
+</p>
+
+
+
+
+
+
+
+
+
 <!--
 **JahsoftWr/JahsoftWr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
