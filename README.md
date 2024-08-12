@@ -126,7 +126,11 @@ alt="mongodb" width="32" height="32"/></a>
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
 <img src="https://github.com/JahsoftWr/README/blob/main/img/arduino-original.png" 
 alt="Arduino" width="32" height="32"/></a>
-  
+ 
+<a href="https://es.wikipedia.org/wiki/Swift_(lenguaje_de_programaci%C3%B3n)" target="_blank" rel="noreferrer"> 
+<img src="https://github.com/JahsoftWr/README/blob/main/img/Swift-original.png" 
+alt="Arduino" width="32" height="32"/></a> 
+
 </p>
 <hr>
 
