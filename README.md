@@ -94,15 +94,15 @@ alt="flutter"width="40"height="40"/></a>
 
 </p>
 
-<a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
-<img src="https://github.com/JahsoftWr/README/blob/main/img/kotlin-original.svg"
-alt="flutter"width="40"height="40"/></a> 
-
 <p align="left">
 <h2 align="left">Interests and Following Languages ​​and Technologies</h2>
 </p>
 <p align="left">
   
+<a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
+<img src="https://github.com/JahsoftWr/README/blob/main/img/kotlin-original.svg"
+alt="flutter"width="40"height="40"/></a> 
+
 <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
 <img src="https://github.com/JahsoftWr/README/blob/main/img/opencv-logo.svg" 
 alt="opencv" width="40" height="40"/></a>
