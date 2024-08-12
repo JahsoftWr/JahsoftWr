@@ -20,7 +20,7 @@
 <img src="https://github.com/JahsoftWr/README/blob/main/img/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
 
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-<img src="https://github.com/JahsoftWr/README/blob/main/img/firebase-icon.svg" 
+<img src="https://github.com/JahsoftWr/README/blob/main/img/firebase-original.svg" 
 alt="firebase" width="40" height="40"/></a>
 
 <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> 
