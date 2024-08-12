@@ -79,6 +79,10 @@ alt="sql server" width="40" height="40"/></a>
 <img src="https://github.com/JahsoftWr/README/blob/main/img/mysql-original-wordmark.svg" 
 alt="mysql" width="40" height="40"/></a>
 
+<a href="https://mariadb.com/" target="_blank" rel="noreferrer"> 
+<img src="https://github.com/JahsoftWr/README/blob/main/img/mariadb-original-wordmark.svg" 
+alt="mysql" width="40" height="40"/></a>
+
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
 <img src="https://github.com/JahsoftWr/README/blob/main/img/git-original.svg"
 alt="git" width="40" height="40"/></a>
