@@ -81,7 +81,7 @@ alt="mysql" width="32" height="32"/></a>
 
 <a href="https://mariadb.com/" target="_blank" rel="noreferrer"> 
 <img src="https://github.com/JahsoftWr/README/blob/main/img/mariadb-original.svg" 
-alt="mysql" width="32" height="32"/></a>
+alt="mariadb" width="32" height="32"/></a>
 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
 <img src="https://github.com/JahsoftWr/README/blob/main/img/git-original.svg"
@@ -101,7 +101,7 @@ alt="flutter" width="32" height="32"/></a>
   
 <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
 <img src="https://github.com/JahsoftWr/README/blob/main/img/kotlin-original.svg"
-alt="flutter"width="32" height="32"/></a> 
+alt="kotlin"width="32" height="32"/></a> 
 
 <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
 <img src="https://github.com/JahsoftWr/README/blob/main/img/opencv-logo.svg" 
@@ -129,7 +129,7 @@ alt="Arduino" width="32" height="32"/></a>
  
 <a href="https://es.wikipedia.org/wiki/Swift_(lenguaje_de_programaci%C3%B3n)" target="_blank" rel="noreferrer"> 
 <img src="https://github.com/JahsoftWr/README/blob/main/img/Swift-original.png" 
-alt="Arduino" width="32" height="32"/></a> 
+alt="Swif" width="32" height="32"/></a> 
 
 </p>
 <hr>
