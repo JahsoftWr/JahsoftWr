@@ -24,10 +24,11 @@
 alt="firebase" width="40" height="40"/></a>
 
 <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android Studio" width="40" height="40"/></a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" 
+alt="Android Studio" width="40" height="40"/></a>
 
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
-<img src="https://github.com/JahsoftWr/README/blob/main/img/laravel-original.svg))" 
+<img src="https://github.com/JahsoftWr/README/blob/main/img/laravel-original.svg" 
 alt="laravel" width="40" height="40"/></a>
 
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
@@ -62,11 +63,11 @@ alt="Php" width="40" height="40"/></a>
 alt="java" width="40" height="40"/></a>
 
 <a href="https://www.vb6.com/" target="_blank" rel="noreferrer"> 
-<img src="https://i.imgur.com/GmVkgEe.png" 
+<img src="https://github.com/JahsoftWr/README/blob/main/img/visualbasic6.png" 
 alt="vb6" width="40" height="40"/></a>
 
 <a href="https://www.microsoft.com/en-us/sql/database-engine/editions/sql-server-2019" target="_blank" rel="noreferrer"> 
-<img src="https://i.imgur.com/PMk5N51.png" 
+<img src="https://github.com/JahsoftWr/README/blob/main/img/sqlserver-original.png" 
 alt="sql server" width="40" height="40"/></a>
 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
