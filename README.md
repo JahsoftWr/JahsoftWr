@@ -80,7 +80,7 @@ alt="sql server" width="40" height="40"/></a>
 alt="mysql" width="40" height="40"/></a>
 
 <a href="https://mariadb.com/" target="_blank" rel="noreferrer"> 
-<img src="https://github.com/JahsoftWr/README/blob/main/img/mariadb-original-wordmark.svg" 
+<img src="https://github.com/JahsoftWr/README/blob/main/img/mariadb-original.svg" 
 alt="mysql" width="40" height="40"/></a>
 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
