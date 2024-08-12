@@ -91,11 +91,12 @@ alt="git" width="40" height="40"/></a>
 <img src="https://github.com/JahsoftWr/README/blob/main/img/flutter-original.svg"
 alt="flutter"width="40"height="40"/></a> 
 
+
+</p>
+
 <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
 <img src="https://github.com/JahsoftWr/README/blob/main/img/kotlin-original.svg"
 alt="flutter"width="40"height="40"/></a> 
-
-</p>
 
 <p align="left">
 <h2 align="left">Interests and Following Languages ​​and Technologies</h2>
