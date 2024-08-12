@@ -134,11 +134,14 @@ alt="Swif" width="32" height="32"/></a>
 <a href="https://www.ruby-lang.org/" target="_blank" rel="noreferrer"> 
 <img src="https://github.com/JahsoftWr/README/blob/main/img/ruby-original.png" 
 alt="Ruby" width="32" height="32"/></a> 
-
  
 <a href="https://go.dev/" target="_blank" rel="noreferrer"> 
-<img src="https://github.com/JahsoftWr/README/blob/main/img/go-original.png" 
+<img src="https://github.com/JahsoftWr/README/blob/main/img/Golang-original.png" 
 alt="Golang" width="32" height="32"/></a> 
+ 
+<a href="https://www.rust-lang.org/es" target="_blank" rel="noreferrer"> 
+<img src="https://github.com/JahsoftWr/README/blob/main/img/rust-original.png" 
+alt="rust" width="32" height="32"/></a> 
 
 </p>
 <hr>
