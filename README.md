@@ -106,7 +106,11 @@ alt="kotlin"width="32" height="32"/></a>
 <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
 <img src="https://github.com/JahsoftWr/README/blob/main/img/opencv-logo.svg" 
 alt="opencv" width="32" height="32"/></a>
-
+ 
+<a href="https://go.dev/" target="_blank" rel="noreferrer"> 
+<img src="https://github.com/JahsoftWr/README/blob/main/img/Golang-original.png" 
+alt="Golang" width="32" height="32"/></a> 
+ 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
 <img src="https://github.com/JahsoftWr/README/blob/main/img/Python-original.png" 
 alt="Python" width="32" height="32"/></a>
@@ -127,6 +131,10 @@ alt="mongodb" width="32" height="32"/></a>
 <img src="https://github.com/JahsoftWr/README/blob/main/img/arduino-original.png" 
 alt="Arduino" width="32" height="32"/></a>
  
+<a href="https://www.rust-lang.org/es" target="_blank" rel="noreferrer"> 
+<img src="https://github.com/JahsoftWr/README/blob/main/img/rust-original.png" 
+alt="rust" width="32" height="32"/></a> 
+
 <a href="https://es.wikipedia.org/wiki/Swift_(lenguaje_de_programaci%C3%B3n)" target="_blank" rel="noreferrer"> 
 <img src="https://github.com/JahsoftWr/README/blob/main/img/swift-original.png" 
 alt="Swif" width="32" height="32"/></a> 
@@ -134,14 +142,6 @@ alt="Swif" width="32" height="32"/></a>
 <a href="https://www.ruby-lang.org/" target="_blank" rel="noreferrer"> 
 <img src="https://github.com/JahsoftWr/README/blob/main/img/ruby-original.png" 
 alt="Ruby" width="32" height="32"/></a> 
- 
-<a href="https://go.dev/" target="_blank" rel="noreferrer"> 
-<img src="https://github.com/JahsoftWr/README/blob/main/img/Golang-original.png" 
-alt="Golang" width="32" height="32"/></a> 
- 
-<a href="https://www.rust-lang.org/es" target="_blank" rel="noreferrer"> 
-<img src="https://github.com/JahsoftWr/README/blob/main/img/rust-original.png" 
-alt="rust" width="32" height="32"/></a> 
 
 </p>
 <hr>
