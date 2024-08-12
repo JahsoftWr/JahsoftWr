@@ -87,8 +87,11 @@ alt="git" width="40" height="40"/></a>
 <img src="https://github.com/JahsoftWr/README/blob/main/img/flutter-original.svg"
 alt="flutter"width="40"height="40"/></a> 
 
-</p>
+<a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
+<img src="https://github.com/JahsoftWr/README/blob/main/img/kotlin-original.svg"
+alt="flutter"width="40"height="40"/></a> 
 
+</p>
 
 <p align="left">
 <h2 align="left">Interests and Following Languages ​​and Technologies</h2>
@@ -96,27 +99,27 @@ alt="flutter"width="40"height="40"/></a>
 <p align="left">
   
 <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" 
+<img src="https://github.com/JahsoftWr/README/blob/main/img/opencv-logo.svg" 
 alt="opencv" width="40" height="40"/></a>
 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" 
+<img src="https://github.com/JahsoftWr/README/blob/main/img/python-original.svg" 
 alt="Python" width="40" height="40"/></a>
 
 <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+<img src="https://github.com/JahsoftWr/README/blob/main/img/nodejs-original-wordmark.svg"
 alt="nodejs"width="40"height="40"/></a> 
 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" 
+<img src="https://github.com/JahsoftWr/README/blob/main/img/react-original-wordmark.svg" 
 alt="React" width="40" height="40"/></a>
 
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
+<img src="https://github.com/JahsoftWr/README/blob/main/img/mongodb-original-wordmark.svg"
 alt="mongodb"width="40"height="40"/></a>
 
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
-<img src="https://i.imgur.com/XI6pwLD.png" 
+<img src="https://github.com/JahsoftWr/README/blob/main/img/arduino-original.png" 
 alt="Arduino" width="40" height="40"/></a>
   
 </p>
