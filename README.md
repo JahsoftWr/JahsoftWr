@@ -47,15 +47,15 @@ alt="Selenium" width="40" height="40"/></a>
 alt="C#" width="40" height="40"/></a>
 
 <a href="https://docs.microsoft.com/en-us/aspnet/core/mvc/overview/getting-started/" target="_blank" rel="noreferrer"> 
-<img src="https://i.imgur.com/LdPAVqQ.png" 
+<img src="https://github.com/JahsoftWr/README/blob/main/img/aspnet-original.png" 
 alt="Mvc.net" width="40" height="40"/></a>
 
 <a href="https://docs.microsoft.com/en-us/dotnet/visual-basic/" target="_blank" rel="noreferrer"> 
-<img src="https://i.imgur.com/2o7CgLq.png" 
+<img src="https://github.com/JahsoftWr/README/blob/main/img/visual-basic-original.png" 
 alt="Vb net" width="40" height="40"/></a>
 
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" 
+<img src="https://github.com/JahsoftWr/README/blob/main/img/php-original.svg" 
 alt="Php" width="40" height="40"/></a>
 
 <a href="https://www.java.com/" target="_blank" rel="noreferrer"> 
