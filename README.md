@@ -103,7 +103,7 @@ alt="flutter"width="40"height="40"/></a>
 alt="opencv" width="40" height="40"/></a>
 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-<img src="https://github.com/JahsoftWr/README/blob/main/img/python-original.svg" 
+<img src="https://github.com/JahsoftWr/README/blob/main/img/Python-original.svg" 
 alt="Python" width="40" height="40"/></a>
 
 <a href="https://nodejs.org" target="_blank" rel="noreferrer">
