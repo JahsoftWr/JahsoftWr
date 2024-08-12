@@ -128,7 +128,7 @@ alt="mongodb" width="32" height="32"/></a>
 alt="Arduino" width="32" height="32"/></a>
  
 <a href="https://es.wikipedia.org/wiki/Swift_(lenguaje_de_programaci%C3%B3n)" target="_blank" rel="noreferrer"> 
-<img src="https://github.com/JahsoftWr/README/blob/main/img/Swift-original.png" 
+<img src="https://github.com/JahsoftWr/README/blob/main/img/swift-original.png" 
 alt="Swif" width="32" height="32"/></a> 
 
 </p>
